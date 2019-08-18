@@ -1,2 +1,0 @@
-webpackJsonp([2],{18:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var s=n(26),r=n(39),a=n(2),i=a(s.a,r.a,!1,null,null,null);e.default=i.exports},26:function(t,e,n){"use strict";e.a={mounted:function(){this.$parent.activeTab="software"}}},39:function(t,e,n){"use strict";var s=function(){var t=this,e=t.$createElement;return(t._self._c||e)("div",{attrs:{id:"skills"}},[t._v("\n    this is software\n")])},r=[],a={render:s,staticRenderFns:r};e.a=a}});
-//# sourceMappingURL=2.0a138375c6814f288eb1.js.map
